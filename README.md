@@ -42,7 +42,6 @@ This script:
 - Fits the manuscript's generalized additive models for bag-seine, bay-trawl, and gill-net CPUE trends.
 - Fits the binomial detection model used in the manuscript.
 - Calculates empirical detection probabilities and confidence intervals for each gear and bay system.
-- Uses `patchwork` to assemble the three CPUE plots and grouped detection-probability bar plot into the 2 × 2 Figure 2 panel.
 
 ### `Figures3_4_detection_across_techniques.R`
 
@@ -50,7 +49,6 @@ This script:
 
 - Produces the semicircle detection-summary plot comparing traditional fisheries monitoring, metabarcoding, qPCR, and ddPCR (Figure 3).
 - Produces the heat map of detection rates by method and bay system (Figure 4).
-- Restricts the 2024 traditional-monitoring comparison to the February and August surveys described in the manuscript.
 
 ## Running the analyses
 
