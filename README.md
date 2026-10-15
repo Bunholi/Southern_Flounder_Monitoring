@@ -2,7 +2,7 @@
 
 This README file was updated on 2026-10-10 by Ingrid Vasconcellos Bunholi.
 
-This repository contains the processed data and R scripts used to reproduce the analyses and figures presented in Bunholi et al. (2026) *Life-history complexity and population declines constrain molecular monitoring of southern flounder in Texas estuaries*
+This repository contains the processed data and R scripts used to reproduce the analyses and figures presented in Bunholi et al. *Life-history complexity and population declines constrain molecular monitoring of southern flounder in Texas estuaries*
 
 The analyses combine Texas Parks and Wildlife Department (TPWD) bag-seine, bay-trawl, and gill-net monitoring data with species-specific qPCR and ddPCR results and fish-community DNA metabarcoding results.
 
